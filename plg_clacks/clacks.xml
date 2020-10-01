@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="system" method="upgrade">
+	<name>PLG_CLACKS_XML</name>
+	<author>Vince Wooll</author>
+	<creationDate>March 2015</creationDate>
+	<copyright>Copyright (C) 2015 Vince Wooll. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>sales@jomres.net</authorEmail>
+	<authorUrl>www.jomres.net</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_CLACKS_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="clacks">clacks.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">/language/en-GB/en-GB.plg_system_clacks.sys.ini</language>
+	</languages>
+</extension>
