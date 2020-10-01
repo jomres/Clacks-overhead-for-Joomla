@@ -14,5 +14,8 @@ class PlgSystemClacks extends JPlugin
 	public function onAfterInitialise()
 		{
 		header("X-Clacks-Overhead: GNU Terry Pratchett");
+
+		$doc = JFactory::getDocument();
+		$doc->setMetaData('X-Clacks-Overhead', 'GNU Terry Pratchett');
 		}
 	}

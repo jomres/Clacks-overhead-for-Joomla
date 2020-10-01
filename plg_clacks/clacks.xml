@@ -7,7 +7,7 @@
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<authorEmail>sales@jomres.net</authorEmail>
 	<authorUrl>www.jomres.net</authorUrl>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<description>PLG_CLACKS_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="clacks">clacks.php</filename>
